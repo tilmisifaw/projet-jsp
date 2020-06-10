@@ -23,7 +23,7 @@
     <div class="page-header">
         <div class="row">
             <div class="col-lg-6" align="left">
-                <h2 style="color: darkcyan"><b style="color: crimson"><i>Caro</i></b>Movies</h2>
+                <h2 style="color: darkcyan"><b style="color: red"><i>Caro</i></b>Movies</h2>
             </div>
             <div class="col-lg-6" align="right">
                 <h3>because we <i class="fas fa-heart"></i> movies </h3>
